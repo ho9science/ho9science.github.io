@@ -7,5 +7,5 @@ categories: jekyll update
 
 {% include musicvae.html %}
 
-![test](https://github.com/favicon.ico | width=100)
+{% include audio.html %}
 
