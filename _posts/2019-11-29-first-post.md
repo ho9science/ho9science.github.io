@@ -6,3 +6,6 @@ categories: jekyll update
 새로운 포스트, github jekyll연습입니다.
 
 {% include musicvae.html %}
+
+![test](https://github.com/favicon.ico | width=100)
+
