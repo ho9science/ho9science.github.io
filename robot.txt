@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ho9science.github.io/sitemap.xml
