@@ -3,8 +3,8 @@ title: "2019 AWS JOB GO"
 date: 2019-11-22 23:59:01 
 categories: seminar
 tags:
-	- aws
-	- 클라우드
+  - aws
+  - 클라우드
 --- 
 ## waht is aws?
 클라우드 서비스, 가상화를 통해 실제 물리적인 소스를 사용할 때보다 이점이 있다. 
