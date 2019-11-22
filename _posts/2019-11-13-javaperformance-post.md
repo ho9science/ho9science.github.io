@@ -2,7 +2,7 @@
 title: "자바 성능"
 date: 2019-11-14 01:59:11
 categories: java
-tag:
+tags:
 	- java
 	- 자바
     - 책리뷰
